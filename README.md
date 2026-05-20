@@ -1,18 +1,172 @@
-# 💫 About Me:
-👋 Hi there! I’m a Data Science & AI Enthusiast<br><br>🔭 I’m currently working on<br>End-to-end Machine Learning, NLP, and GenAI projects, focusing on real-world problem solving, data pipelines, and model deployment.<br><br>👯 I’m looking to collaborate on<br>Open-source projects in Data Science, AI, NLP, GenAI, and Analytics, especially those with practical or business impact.<br><br>🤝 I’m looking for help with<br>Improving model optimization, MLOps workflows, and scalable deployment using cloud and modern data tools.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Large Language Models (LLMs), Prompt Engineering, and Data Engineering tools like PySpark & Databricks.<br><br>💬 Ask me about<br>Python, Machine Learning, NLP, GenAI projects, data analysis, and how to turn raw data into insights.<br><br>⚡ Fun fact<br>I enjoy breaking complex AI concepts into simple explanations—and I treat ChatGPT like a coding partner, not a shortcut 😉
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Kanithi%20Gunasagar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%26%20LLM%20Systems%20%7C%20Quantum%20Computing&descAlignY=60&descSize=18" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;AI+Engineer+%40+UniqueHire+%F0%9F%A4%96;Agentic+AI+%26+RAG+Systems+Builder+%F0%9F%A7%A0;Quantum+Hackathon+Winner+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+intelligent+products+%E2%9A%A1" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_g_a_r_k_a_n_i_t_h_i_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Kanithi Gunasagar](https://www.linkedin.com/in/kanithigunasagar/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanithigunasagar@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sagar25k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sagar25k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="380" alt="AI GIF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kanithi-gunasagar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sagar25k">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:kanithigunasagar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Hyderabad,_India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sagar25k&label=Profile%20Views&color=a78bfa&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sagar25k?label=Followers&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/stars/sagar25k?label=Stars&style=for-the-badge&color=yellow" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagar25k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+</div>
+
+🎓 **B.Tech CSE-DS** @ Aditya Institute of Technology (CGPA: 8.65) <br/>
+🤖 **AI Engineer Intern** @ UniqueHire — Building agentic AI systems <br/>
+☁️ **AWS Certified Cloud Practitioner** & **Oracle GenAI Certified** <br/>
+🏆 **1st Place** — Amaravati Quantum Valley Hackathon (Govt. of AP) <br/>
+🧠 Currently exploring **LangGraph, MCP, Quantum Algorithms** <br/>
+🔭 Building **RAG pipelines, multi-agent systems & quantum optimizers** <br/>
+📫 Reach me: **kanithigunasagar@gmail.com**
+
+<br/><br/>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,js&theme=dark" />
+
+### 🤖 AI / ML / Agentic Systems
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+### ⚛️ Quantum Computing
+
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+<img src="https://img.shields.io/badge/QuTiP-1F77B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenQASM-FF9E0F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/QAOA-00B5D8?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NISQ-7C3AED?style=for-the-badge&logoColor=white" />
+
+### 🌐 Backend & Frontend
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nodejs,bootstrap&theme=dark" />
+
+### 🗄️ Databases & Vector Stores
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb&theme=dark" />
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,linux&theme=dark" />
+
+### 📊 Data & Visualization
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar25k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=a78bfa&title_color=a78bfa" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar25k&theme=radical&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar25k&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" />
+
+<br/>
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sagar25k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+
+<br/><br/>
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sagar25k/sagar25k/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/kanithi-gunasagar/">
+  <img src="https://img.icons8.com/fluency/64/linkedin.png" width="55" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sagar25k">
+  <img src="https://img.icons8.com/fluency/64/github.png" width="55" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kanithigunasagar@gmail.com">
+  <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="55" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/">
+  <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="55" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.kaggle.com/">
+  <img src="https://img.icons8.com/windows/64/20BEFF/kaggle.png" width="55" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer" />
