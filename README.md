@@ -108,14 +108,27 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar25k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar25k&theme=radical" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar25k&theme=radical" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar25k&theme=radical" alt="Repos per Language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar25k&theme=radical" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar25k&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 <br/><br/>
+
+## 🔥 Streak Stats
 
 <img src="https://streak-stats.demolab.com?user=sagar25k&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
+
+## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar25k&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" alt="Activity Graph" />
 
@@ -124,22 +137,6 @@
 ## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=sagar25k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Trophies" />
-
-<br/><br/>
-
-## 📈 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar25k&theme=radical" alt="Profile Details" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar25k&theme=radical" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar25k&theme=radical" alt="Most Commit Language" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar25k&theme=radical&utcOffset=5.5" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar25k&theme=radical" alt="Stats" />
 
 </div>
 
