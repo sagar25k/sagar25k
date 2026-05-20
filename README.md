@@ -1,18 +1,16 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Kanithi%20Gunasagar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%26%20LLM%20Systems%20%7C%20Quantum%20Computing&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;AI+Engineer+%40+UniqueHire+%F0%9F%A4%96;Agentic+AI+%26+RAG+Systems+Builder+%F0%9F%A7%A0;Quantum+Hackathon+Winner+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+intelligent+products+%E2%9A%A1" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=240&section=header&text=Kanithi%20Gunasagar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Quantum%20Computing&descAlignY=60&descSize=20" alt="header"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;AI+Engineer+%40+UniqueHire+%F0%9F%A4%96;Agentic+AI+%26+RAG+Systems+Builder+%F0%9F%A7%A0;Quantum+Hackathon+Winner+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+intelligent+products+%E2%9A%A1" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="380" alt="AI GIF" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/kanithi-gunasagar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -110,28 +108,36 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar25k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=a78bfa&title_color=a78bfa" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa" />
+<a href="https://github.com/sagar25k">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar25k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=a78bfa&title_color=a78bfa" />
+</a>
+<a href="https://github.com/sagar25k">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=a78bfa" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar25k&theme=radical&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<a href="https://github.com/sagar25k">
+  <img src="https://streak-stats.demolab.com?user=sagar25k&theme=radical&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar25k&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar25k&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" alt="Activity Graph" />
 
-<br/>
+<br/><br/>
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=sagar25k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+<a href="https://github.com/sagar25k">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagar25k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+</a>
 
 <br/><br/>
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/sagar25k/sagar25k/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/sagar25k/sagar25k/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -169,4 +175,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=140&section=footer" />
