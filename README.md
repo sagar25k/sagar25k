@@ -127,9 +127,19 @@
 
 <br/><br/>
 
-## 🐍 Contribution Snake
+## 📈 Profile Summary
 
-<img src="https://raw.githubusercontent.com/sagar25k/sagar25k/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar25k&theme=radical" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagar25k&theme=radical" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar25k&theme=radical" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagar25k&theme=radical&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar25k&theme=radical" alt="Stats" />
 
 </div>
 
