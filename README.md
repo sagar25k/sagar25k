@@ -108,18 +108,12 @@
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/sagar25k">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar25k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=a78bfa&title_color=a78bfa" />
-</a>
-<a href="https://github.com/sagar25k">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=a78bfa" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sagar25k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar25k&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<a href="https://github.com/sagar25k">
-  <img src="https://streak-stats.demolab.com?user=sagar25k&theme=radical&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=sagar25k&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -129,9 +123,7 @@
 
 ## 🏆 Trophies
 
-<a href="https://github.com/sagar25k">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar25k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=sagar25k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Trophies" />
 
 <br/><br/>
 
