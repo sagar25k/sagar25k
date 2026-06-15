@@ -146,7 +146,7 @@
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/kanithi-gunasagar/">
+<a href="https://www.linkedin.com/in/kanithigunasagar/">
   <img src="https://img.icons8.com/fluency/64/linkedin.png" width="55" />
 </a>
 &nbsp;&nbsp;
